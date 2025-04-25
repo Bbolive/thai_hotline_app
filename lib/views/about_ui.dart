@@ -73,13 +73,13 @@ class _AboutUiState extends State<AboutUi> {
               ),
             ),
             Text(
-              's6519410047@sau.ac.th',
+              's6519410037@sau.ac.th',
               style: TextStyle(
                 fontSize: 18.0,
                 fontWeight: FontWeight.bold,
               ),
             ),
-            Text(
+          Text(
               'สาขาวิศวกรรมคอมพิวเตอร์',
               style: TextStyle(
                 fontSize: 18.0,
